@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+article{
+    height: 20px;
+    width: 60px;
+    border: 3px;
+    color: #303030;
+}
